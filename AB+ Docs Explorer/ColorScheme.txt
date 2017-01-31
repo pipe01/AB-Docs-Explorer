@@ -1,0 +1,6 @@
+﻿Name (default)
+
+NativeType (Color.Blue)
+Type (Color.Teal)
+MemberName (Color.Salmon)
+InvalidMemberName (Color.Red)
